@@ -23,16 +23,6 @@ A modern, interactive Quiz Application built with **Java Swing GUI** and powered
 
 ---
 
-## 🖼️ UI Screenshots
-
-| Start Screen | Quiz Window | Result Page |
-|--------------|-------------|-------------|
-| ![start](assets/start.png) | ![quiz](assets/quiz.png) | ![result](assets/result.png) |
-
-> 📁 Add screenshots in `assets/` folder to match these.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Java Swing** – GUI Components  
